@@ -1,2 +1,2 @@
-from maxx import exit 
+from max import exit 
 exit()
